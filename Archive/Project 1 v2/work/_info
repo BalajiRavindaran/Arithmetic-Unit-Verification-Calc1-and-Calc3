@@ -1,0 +1,268 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/GitHub/COEN-6541-Project/Project 1
+T_opt
+!s110 1710550198
+V>Pj73F1<eWnUQ7og`3`fj3
+04 15 4 work calc1_testbench fast 0
+=4-2cf05d8cad44-65f4ecb6-1d8-5288
+R1
+!s12b OEM100
+!s124 OEM10U17 
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vujUB7IdG2DS1T8UdTfA96g==
+Z3 !s110 1710267459
+!i10b 0
+!s100 83mIV>o=^SRzTai:`T5Ke3
+I]RkI>7RO[@EMB:D[o`NeQ2
+!i119 1
+!i8a 517286464
+Z4 dE:/GitHub/COEN-6541-Project/Project 1 v2
+Z5 w1710267459
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/alu_input_stage.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/alu_input_stage.v
+!i122 2
+Z6 L0 11 1
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z9 !s108 1710267459.000000
+Z10 !s107 E:/GitHub/COEN-6541-Project/Project 1 v2/dut/shifter.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/priority.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/mux_out.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/holdreg.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/exdbin_mac.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/alu_output_stage.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/alu_input_stage.v|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/calc1_top.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/calc1_top.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n30a9825
+vQJHbPMLvZcu3YJmqChqi8hGTp+Fwx8JSr0xi1psMVOo=
+R3
+!i10b 0
+!s100 k1]]L3ID4Ndf><M6][em`2
+IG<dSkQk3=dM?4^IV2jD>^3
+!i119 1
+!i8a 1041822480
+R4
+R5
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/alu_output_stage.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/alu_output_stage.v
+!i122 2
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+n9355
+vcalc1_testbench
+2E:/GitHub/COEN-6541-Project/Project 1 v2/tests/calc1_testbench.sv
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1710550179
+!i10b 1
+!s100 K6>eG@20abS<fceQKhTNC2
+Iz:c[`P>Hec7V6Z[;nVIkS1
+S1
+R4
+w1710550160
+8E:/GitHub/COEN-6541-Project/Project 1 v2/tests/calc1_testbench.sv
+FE:/GitHub/COEN-6541-Project/Project 1 v2/tests/calc1_testbench.sv
+!i122 18
+L0 9 1401
+R7
+R8
+r1
+!s85 0
+31
+!s108 1710550179.000000
+!s107 E:/GitHub/COEN-6541-Project/Project 1 v2/tests/calc1_testbench.sv|
+!s90 -reportprogress|300|-work|work|E:/GitHub/COEN-6541-Project/Project 1 v2/tests/calc1_testbench.sv|
+!i113 0
+R12
+R2
+vcapxbeuPVDWHUramqdjexg==
+R3
+!i10b 0
+!s100 jZ_4QDZgFJG4X7ZAdB?=g3
+IikRAM;3Sk@Cjjme_TPY@a2
+!i119 1
+!i8a 1359358688
+R4
+R5
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/calc1_top.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/calc1_top.v
+!i122 2
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+n26704e0
+v51Ak6ZB1UADZEB2NfI3s3A==
+R3
+!i10b 0
+!s100 OKU6hP@Ze68d;Knh?iaHa0
+I^>fLnneUDmM3Gc>ngQZ753
+!i119 1
+!i8a 1321335568
+R4
+R5
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/exdbin_mac.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/exdbin_mac.v
+!i122 3
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/GitHub/COEN-6541-Project/Project 1 v2/dut/exdbin_mac.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/exdbin_mac.v|
+!i113 0
+R12
+R2
+n906add3
+vZkuRvmMDem/L8Px7+kTjUQ==
+Z13 !s110 1710267460
+!i10b 0
+!s100 j8`4ej0a1bhfJSlAI7RfF3
+IAH=0cWLJDkUU=MI>=OBDf3
+!i119 1
+!i8a 590129456
+R4
+Z14 w1710267460
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/holdreg.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/holdreg.v
+!i122 4
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/GitHub/COEN-6541-Project/Project 1 v2/dut/holdreg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/holdreg.v|
+!i113 0
+R12
+R2
+nf62b8d7
+v6uQArPV3Z6aCJUWJyz/LhQ==
+R13
+!i10b 0
+!s100 dT[Qn:gIfdf@RG`iMz>LS3
+I^JF6DP`VHAkBgN4;QK>Mn0
+!i119 1
+!i8a 126976528
+R4
+R14
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/mux_out.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/mux_out.v
+!i122 5
+R6
+R7
+R8
+r1
+!s85 0
+31
+Z15 !s108 1710267460.000000
+!s107 E:/GitHub/COEN-6541-Project/Project 1 v2/dut/mux_out.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/mux_out.v|
+!i113 0
+R12
+R2
+n4ce66b4
+vQ+8qPm1JYqmotUp1LFXxCQ==
+R13
+!i10b 0
+!s100 Ymz07FRJRB[YE0II6k;9E3
+IRK9elnGA3CHc0d>CaH@[H2
+!i119 1
+!i8a 2146459328
+R4
+R14
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/priority.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/priority.v
+!i122 6
+R6
+R7
+R8
+r1
+!s85 0
+31
+R15
+!s107 E:/GitHub/COEN-6541-Project/Project 1 v2/dut/priority.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/priority.v|
+!i113 0
+R12
+R2
+n90697c9
+vRfIJMFZw4fyTDClqoyEC0g==
+R13
+!i10b 0
+!s100 <JMH[a_^?fzofALf^Pm8G0
+I5@lTc;Ng1>h67TUINoRaP3
+!i119 1
+!i8a 1879918720
+R4
+R14
+8E:/GitHub/COEN-6541-Project/Project 1 v2/dut/shifter.v
+FE:/GitHub/COEN-6541-Project/Project 1 v2/dut/shifter.v
+!i122 7
+R6
+R7
+R8
+r1
+!s85 0
+31
+R15
+!s107 E:/GitHub/COEN-6541-Project/Project 1 v2/dut/shifter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/GitHub/COEN-6541-Project/Project 1 v2/dut/shifter.v|
+!i113 0
+R12
+R2
+n9efdab2

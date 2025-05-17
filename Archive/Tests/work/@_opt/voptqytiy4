@@ -1,0 +1,34 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/nfs/home/n/ni_sunda/Questa/Tests
+T_opt
+V]L=QkcQOC7_:d9N5SPTKd2
+04 14 4 work Calculator_DUT fast 0
+=2-308d996205c8-6616f7e6-139d4-39e1
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1e;51
+vCalculator_DUT
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+IOi>[4Ik?MC9715XSe9>jh1
+V:VGz9Jz?C9^=zfMm^RkVT3
+S1
+Z1 d/nfs/home/n/ni_sunda/Questa/Tests
+w1712781253
+8/nfs/home/n/ni_sunda/Questa/Tests/dummy_calc3.sv
+F/nfs/home/n/ni_sunda/Questa/Tests/dummy_calc3.sv
+L0 1
+Z2 OL;L;10.1e;51
+r1
+31
+o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@calculator_@d@u@t
+!s100 o_9eJ=CNlUO:L4XKMW?iP3
+!s105 dummy_calc3_sv_unit
+!i10b 1
+!s85 0
+!s108 1712781274.437531
+!s107 /nfs/home/n/ni_sunda/Questa/Tests/dummy_calc3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|/nfs/home/n/ni_sunda/Questa/Tests/dummy_calc3.sv|

@@ -1,0 +1,473 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2023.4 2023.10, Oct  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl
+T_opt
+!s110 1712673406
+VK1HVLnXn9eQB4;`Tz^ZR72
+04 3 4 work top fast 0
+=1-18c04d88bcb4-6615527d-241-1f30
+R0
+Z2 !s12f OEM100
+Z3 !s12b OEM100
+!s124 OEM10U23 
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2023.4;77
+R1
+T_opt1
+!s110 1712700352
+VU03C3aJVQcWi;`>kg5O`C3
+04 5 4 work test2 fast 0
+=1-18c04d88bcb4-6615bbc0-b0-49b8
+R0
+R2
+R3
+!s124 OEM10U18 
+R4
+R5
+n@_opt1
+R6
+vFrJZ9Dtm4ANsLFQM7LQBSA==
+Z7 !s110 1712700325
+!i10b 0
+!s100 o8Clafa<3z]Qf6k1NCO9;1
+IlhR7ILRW6OjWM6>bg]7jR2
+!i119 1
+!i8a 510946160
+R1
+Z8 w1712700325
+8adder.v
+Fadder.v
+!i122 23
+Z9 L0 11 1
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2023.4;77
+r1
+!s85 0
+31
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n67aac2
+vpaw0APP6m6c6LIsQr+kHG9TMN2Kat2bnpAGiiGBt5D0=
+R7
+!i10b 0
+!s100 `ek6_l_ZB4OAAkX1YBGTz3
+IImNGoHhlND=?aM=f=oci73
+!i119 1
+!i8a 611820400
+R1
+R8
+8adder_input_stage.v
+Fadder_input_stage.v
+!i122 23
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+n2535ad5
+vR60SJiM8r2Me5Dp7HqKopLmbiwAQA7VDRg3Oh6kOz8A=
+R7
+!i10b 0
+!s100 k6WOTZF4eO]35ma9Q4G@c0
+I:S3oSn<Mb7D]@N7Lo2gED1
+!i119 1
+!i8a 1357276736
+R1
+R8
+8adder_output_stage.v
+Fadder_output_stage.v
+!i122 23
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+ne7cbc95
+vcalc3_top
+2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/calc3_top.v
+R7
+!i10b 1
+!s100 `b3E?igEE7W9JU=2U@?<S2
+IK5<`EUG7UM>71HhiNNVRK3
+R1
+w1712264431
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/calc3_top.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/calc3_top.v
+!i122 23
+L0 16 465
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+vcalc_dut_wrapper
+2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/wrapper.sv
+Z13 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z14 !s110 1712700327
+!i10b 1
+!s100 ZklUPWQio^;ma;ee1g;OK2
+IB6[3<b3OSTO:_k>Xd=Khd1
+S1
+R1
+w1712673148
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/wrapper.sv
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/wrapper.sv
+!i122 40
+L0 1 51
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+vcoverage_model
+Z15 2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/tb.sv
+R13
+R14
+!i10b 1
+!s100 >aC^>AR;k0aG^ImcaT<UR0
+IdMfI@T]Z5`iF>a2FViWDQ2
+S1
+R1
+w1712667637
+8coverage_model.sv
+Fcoverage_model.sv
+!i122 36
+L0 1 41
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+Xdata_generator_sv_unit
+2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/data_generator.sv
+R13
+Z16 !s110 1712700326
+V1HRR;:I98Bd:V:4Q[zIL@1
+r1
+!s85 0
+!i10b 1
+!s100 V6W:LeEnR]986gdJWPhJ[2
+I1HRR;:I98Bd:V:4Q[zIL@1
+!i103 1
+S1
+R1
+w1712365618
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/data_generator.sv
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/data_generator.sv
+!i122 25
+Z17 L0 2 0
+R11
+31
+!i113 0
+R12
+R5
+Ydut_interface
+Z18 2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/top.sv
+R13
+R14
+!i10b 1
+!s100 SgG5?f[z9hnPi4mL@ARfo2
+Imd0;HnI4JI_ODg897d0aA2
+S1
+R1
+w1712667726
+8interface.sv
+Finterface.sv
+!i122 39
+L0 1 0
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+vCYBLHlkWeBfKukKVTHJIVA==
+R16
+!i10b 0
+!s100 6U2P[jjmPe^0bX9OkC`Jh1
+IneGSDfJOJZflMADUD`Eo=0
+!i119 1
+!i8a 2010432064
+R1
+Z19 w1712700326
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/holdreg.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/holdreg.v
+!i122 26
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+nf62b8d7
+vmonitor
+R15
+R13
+R14
+!i10b 1
+!s100 jIi`8m6JNmV589OJ3Fkc_3
+IQfOHfW1al^VlnRzliHLR80
+S1
+R1
+w1712675725
+8monitor.sv
+Fmonitor.sv
+!i122 36
+L0 1 11
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+vhixT/v0IsUO7K9t+9gPzLQ==
+R16
+!i10b 0
+!s100 dA3PzUmS1X43MOPmA]U^z0
+IUHod6nUz<@]JZg;JVQcl;1
+!i119 1
+!i8a 214235008
+R1
+R19
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/mux_out.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/mux_out.v
+!i122 29
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+n4ce66b4
+va5SxzfQZ7LSIIAXei1NKfw==
+R16
+!i10b 0
+!s100 j80]k2MYo;ZQn;P4<AeW52
+IHejW;8ZeQ:BJ^d`_[=8HS0
+!i119 1
+!i8a 577213632
+R1
+R19
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/priority.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/priority.v
+!i122 30
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+n90697c9
+v1ZtyQbgYIuOJvkECv4r9rw==
+R16
+!i10b 0
+!s100 Q4A;0lzf?<N8ZDMkRi4Un1
+IBhc;kkKfTcG:QMg@<kJmR1
+!i119 1
+!i8a 674753216
+R1
+R19
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/registers.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/registers.v
+!i122 31
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+ne0ad423
+Xscoreboard_sv_unit
+2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/scoreboard.sv
+R13
+R16
+VnZF=VYVZnbNNOV8R^8[PM2
+r1
+!s85 0
+!i10b 1
+!s100 TlhcWn_PjOof4P33z:1;j3
+InZF=VYVZnbNNOV8R^8[PM2
+!i103 1
+S1
+R1
+w1712367332
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/scoreboard.sv
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/scoreboard.sv
+!i122 32
+R17
+R11
+31
+!i113 0
+R12
+R5
+vOb5kNzUxVcE6NCrEafHtOb7WeGnYeyDUwNiYqSgOSOA=
+R16
+!i10b 0
+!s100 Df?lWPaS1mn7J7K]O];LU2
+IoGChhTO;:OVC@4IJid>bc2
+!i119 1
+!i8a 1940519712
+R1
+R19
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/shift_input_stage.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/shift_input_stage.v
+!i122 33
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+n44d1fc5
+v7nACmYIyQNM0o4QtRMUzjOsGJAIDbEgVllGs3wdplRc=
+R14
+!i10b 0
+!s100 o4hZU6NJcanM5AWzejmZD2
+I_SdS95_DbmzJMYE1GDZ4R1
+!i119 1
+!i8a 144078240
+R1
+Z20 w1712700327
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/shift_output_stage.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/shift_output_stage.v
+!i122 34
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+nb98edb5
+vYqZZ+RsJVpzP96SpoBGp1g==
+R14
+!i10b 0
+!s100 @mlb@OX^`2DaKg1D0RnAY3
+Id2QA<b6n^cCQHX9?6`WBa2
+!i119 1
+!i8a 347587744
+R1
+R20
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/shifter.v
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/shifter.v
+!i122 35
+R9
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+n9efdab2
+vtb
+R15
+R13
+R14
+!i10b 1
+!s100 ;eRFWWc:9046iV9;aJaN@3
+IZXRnh_EzZeR2o=ll_?`JB2
+S1
+R1
+w1712676186
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/tb.sv
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/tb.sv
+!i122 36
+L0 6 63
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+vtest
+2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/Test.sv
+R13
+R14
+!i10b 1
+!s100 KG0IVZ=H3N8`WVK<E^jzi0
+I^4kjV^]]PUhf^eJSdc7]L0
+S1
+R1
+w1712700250
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/Test.sv
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/Test.sv
+!i122 37
+L0 3 104
+R10
+R11
+r1
+!s85 0
+31
+!i113 0
+R12
+R5
+vtest2
+2D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/test2.sv
+R13
+R14
+!i10b 1
+!s100 HbKd1>ZI]gDXNIQ=AAVjJ3
+ID55QBfAioCXJk2EhULQR90
+S1
+R1
+w1712700251
+8D:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/test2.sv
+FD:/Applied Hands-on/Concordia/COEN 6541/COEN-6541-Project/COEN-6541-Project/Project 2/hdl/test2.sv
+!i12

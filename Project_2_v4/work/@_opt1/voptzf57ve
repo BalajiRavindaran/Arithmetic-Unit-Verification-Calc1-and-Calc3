@@ -1,0 +1,48 @@
+library verilog;
+use verilog.vl_types.all;
+entity calc3_top is
+    port(
+        out1_data       : out    vl_logic_vector(0 to 31);
+        out1_resp       : out    vl_logic_vector(0 to 1);
+        out1_tag        : out    vl_logic_vector(0 to 1);
+        out2_data       : out    vl_logic_vector(0 to 31);
+        out2_resp       : out    vl_logic_vector(0 to 1);
+        out2_tag        : out    vl_logic_vector(0 to 1);
+        out3_data       : out    vl_logic_vector(0 to 31);
+        out3_resp       : out    vl_logic_vector(0 to 1);
+        out3_tag        : out    vl_logic_vector(0 to 1);
+        out4_data       : out    vl_logic_vector(0 to 31);
+        out4_resp       : out    vl_logic_vector(0 to 1);
+        out4_tag        : out    vl_logic_vector(0 to 1);
+        scan_out        : out    vl_logic;
+        a_clk           : in     vl_logic;
+        b_clk           : in     vl_logic;
+        c_clk           : in     vl_logic;
+        req1_cmd        : in     vl_logic_vector(0 to 3);
+        req1_d1         : in     vl_logic_vector(0 to 3);
+        req1_d2         : in     vl_logic_vector(0 to 3);
+        req1_data       : in     vl_logic_vector(0 to 31);
+        req1_r1         : in     vl_logic_vector(0 to 3);
+        req1_tag        : in     vl_logic_vector(0 to 1);
+        req2_cmd        : in     vl_logic_vector(0 to 3);
+        req2_d1         : in     vl_logic_vector(0 to 3);
+        req2_d2         : in     vl_logic_vector(0 to 3);
+        req2_data       : in     vl_logic_vector(0 to 31);
+        req2_r1         : in     vl_logic_vector(0 to 3);
+        req2_tag        : in     vl_logic_vector(0 to 1);
+        req3_cmd        : in     vl_logic_vector(0 to 3);
+        req3_d1         : in     vl_logic_vector(0 to 3);
+        req3_d2         : in     vl_logic_vector(0 to 3);
+        req3_data       : in     vl_logic_vector(0 to 31);
+        req3_r1         : in     vl_logic_vector(0 to 3);
+        req3_tag        : in     vl_logic_vector(0 to 1);
+        req4_cmd        : in     vl_logic_vector(0 to 3);
+        req4_d1         : in     vl_logic_vector(0 to 3);
+        req4_d2         : in     vl_logic_vector(0 to 3);
+        req4_data       : in     vl_logic_vector(0 to 31);
+        req4_r1         : in     vl_logic_vector(0 to 3);
+        req4_tag        : in     vl_logic_vector(0 to 1);
+        reset           : in     vl_logic;
+        scan_in         : in     vl_logic
+    );
+end calc3_top;
