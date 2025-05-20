@@ -1,4 +1,4 @@
-## Arithmetic Unit Verification Calc1 and Calc3
+## Arithmetic-Unit-Verification-Calc1-and-Calc3
 
 <ul>
   <li>Developed and implemented comprehensive verification plans for two arithmetic units: Calc1 and Calc3.</li>
